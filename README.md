@@ -1,1 +1,1 @@
-https://gileardy.github.io/Css-In-line-Interna-e-Externa/
+https://gileardy.github.io/Atividade-2---CSS/
